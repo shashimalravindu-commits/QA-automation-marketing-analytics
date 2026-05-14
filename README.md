@@ -43,6 +43,20 @@ Landing Page Visit
 ↓  
 Course Page View  
 ↓  
+
+ Website Preview
+
+ Home Page
+![Home Page](homepage.png)
+
+ About Page
+![About Page](about.png)
+
+Courses Page
+![Courses Page](courses.png)
+
+ Contact Page
+![Contact Page](contact.png)
 Register Form  
 ↓  
 Lead Submission  
